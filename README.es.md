@@ -1,5 +1,8 @@
 <!-- hide -->
-# El desafío del error ortográfico
+# El desafío del error ortográfico 
+# (Fix typo: 'chalenge' → 'challenge'. This Pull Request corrects a typo by changing 'chalenge' to 'challenge' in the name of repository
+
+Note: the repository name still contains the same typo. Updating the repository title requires a maintainer to change it in the repository settings.
 <!-- endhide -->
 
 Aprender en público significa colaboración y no tienes que ser un experto para colaborar. ¡Los errores ortográficos vienen al rescate! El perfecto rompehielos para las contribuciones de código abierto; arreglar un error ortográfico es fácil y no requiere de mucha experiencia en GitHub o Git.
